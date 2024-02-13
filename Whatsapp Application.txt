@@ -9,3 +9,9 @@ Whatsapp Application
 4.UPI Payment
 
 5.Audio and Video Feature
+
+6.Creat Group
+
+7.Status
+
+8.Broadcast Feature
